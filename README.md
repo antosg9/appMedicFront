@@ -1,6 +1,9 @@
 # AppMedicFront
 
 Bienvenue sur le projet appMedic, une application conçue pour signaler les médicaments essentiels en cas de difficulté d'approvisionnement.
+
+Voici le lien vers le projet Back-end : [AppMedicBack](https://github.com/paulpp78/appMedicBack)
+
 ## Prérequis
 
 Assurez-vous que Node.js et npm sont installés sur votre machine.
