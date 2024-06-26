@@ -1,7 +1,6 @@
 # AppMedicFront
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
-
+Bienvenue sur le projet appMedic, une application conçue pour signaler les médicaments essentiels en cas de difficulté d'approvisionnement.
 ## Prérequis
 
 Assurez-vous que Node.js et npm sont installés sur votre machine.
