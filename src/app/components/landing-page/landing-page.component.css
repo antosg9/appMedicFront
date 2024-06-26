@@ -1,0 +1,67 @@
+/* Custom styles for the landing page */
+.landing-page {
+  font-family: "Roboto", sans-serif;
+  color: #333;
+  text-align: center;
+}
+
+h1.display-4 {
+  font-size: 3rem;
+  color: #333;
+  margin-top: 50px;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+.card {
+  background: #fff;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card p.lead {
+  font-size: 1.25rem;
+  color: #333;
+}
+
+.card p.font-italic {
+  font-style: italic;
+  color: #555;
+}
+
+.card p.text-danger {
+  color: #e74c3c;
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: #3498db;
+  border-color: #3498db;
+  padding: 10px 20px;
+  border-radius: 25px;
+  font-size: 1.25rem;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #2980b9;
+  border-color: #2980b9;
+}
+
+.btn-primary i {
+  margin-right: 10px;
+}
+
+.img-hero {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}

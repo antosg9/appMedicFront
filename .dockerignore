@@ -1,0 +1,11 @@
+.idea
+*.iml
+out
+gen
+node_modules
+src
+.editorconfig
+.gitignore
+.angular
+*.json
+README.md
